@@ -1,0 +1,6 @@
+framework module Pods_Posterr_PosterrUITests {
+  umbrella header "Pods-Posterr-PosterrUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

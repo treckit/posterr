@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.4)
+  - GRDB.swift (5.12.0):
+    - GRDB.swift/standard (= 5.12.0)
+  - GRDB.swift/standard (5.12.0)
+  - Moya/Combine (15.0.0):
+    - Moya/Core
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (4.2.0)
+  - Swinject (2.8.1)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - Moya/Combine
+  - ObjectMapper
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GRDB.swift
+    - Moya
+    - ObjectMapper
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  GRDB.swift: f94b00ac11ab22597771b6a47211d1c44284395a
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+
+PODFILE CHECKSUM: 3a038dd8b6f274ba9a700ebf5eaf112ae656ea04
+
+COCOAPODS: 1.11.2
